@@ -407,27 +407,146 @@ width: 100%;
         float: left
     }
     
-        #imageright{
+        #imageright1{
         margin-top: 5%;
         width:40%;
         height:600px;
         margin-right: 10%;
-        background-color: black;
-                        background-image: url("../images/about_image.png")  ;
+        background-color: transparent;
+                        background-image: url("../images/audemars.svg")  ;
       background-repeat: no-repeat;
-            background-size: 100% 100%;
+            background-size: 50%;
         float: right;
     }
     
-        #imageleft{
+        #imageleft1{
         margin-top: 5%;
         width:40%;
         height:600px;
         margin-left: 10%;
         background-color: transparent;
-            background-image: url("../images/the_process_image.png")  ;
+                        background-image: url("../images/breitling.svg")  ;
       background-repeat: no-repeat;
-            background-size: 100% 100%;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright2{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/cartier.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft2{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/iwc.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright3{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        background-color: transparent;
+                        background-image: url("../images/jaeger.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft3{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/lange.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright4{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/omega.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft4{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/panerai.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright5{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/patek.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft5{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/rolex.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright6{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/tag_heuer.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft6{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/zenith.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
         float: left
     }
     
