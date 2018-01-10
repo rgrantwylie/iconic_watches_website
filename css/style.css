@@ -54,10 +54,300 @@ width: 100%;
     #section2{
     
   width: 100%;
-  height: 645px;
+  height: 730px;
 
  
-  background-color: aqua;
+  background-color: #f5f5f5;
+
+}
+    
+        #section3{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+        #section4{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section5{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section6{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section7{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section8{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section9{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section10{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section11{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+            #section12{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+    
+                #section13{
+    
+  width: 100%;
+  height: 730px;
+
+ 
+  background-color: #f5f5f5;
+
+}
+   
+   
+   
+   
+   
+   
+   
+   
+    
+    #textleft{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+        float: left
+    }
+    
+        #imageright1{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/audemars.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft1{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/breitling.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright2{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/cartier.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft2{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/iwc.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright3{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        background-color: transparent;
+                        background-image: url("../images/jaeger.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft3{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/lange.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright4{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/omega.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft4{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/panerai.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright5{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/patek.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft5{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/rolex.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+            #imageright6{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+                        background-image: url("../images/tag_heuer.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: right;
+    }
+    
+        #imageleft6{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-left: 10%;
+        background-color: transparent;
+                        background-image: url("../images/zenith.svg")  ;
+      background-repeat: no-repeat;
+            background-size: 50%;
+        float: left
+    }
+    
+        #textright{
+        margin-top: 5%;
+        width:40%;
+        height:600px;
+        margin-right: 10%;
+        background-color: transparent;
+        float: right;
+    }
+    
+            #download{
+    
+  width: 100%;
+  height: 600px;
+  background-color: transparent;
+                            background-image: url("../images/download.png")  ;
+      background-repeat: no-repeat;
+            background-size: 100% 100%;
 
 }
 
